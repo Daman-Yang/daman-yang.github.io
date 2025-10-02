@@ -14,11 +14,11 @@ Welcome to the profile of Daman YANG.
 I am currently a second-year undergrad student in **South China University of Technology (華南理工大學 SCUT)**, majoring in **Robotics Engineering** at Shien-Ming Wu School of Intelligent Engineering and minoring in Law.
 Currently I am having academic courses (English-Medium-Instruction) and doing research and development in Prof. Shaofeng LU's research program on Smart Transport Lighting. My research interests lie in the domain of embedded systems, communications, distributed computing, and IoT. I am expecting more research opportunities!
 
-Beyond my research pursuits, I am also taking full charge of a **tech start-up**, serving as the CEO, founder, and president of CITATEK Co., Ltd. We mainly focus on **AIoT Smart Hardware** and our first product is now at the stage of EVT (Engineering Verification Test). We warmly welcome investors and founders to get in touch with us!
+Beyond my research pursuits, I am also taking full charge of a **tech start-up**, serving CITATEK Co., Ltd. as the CEO, founder, and engineer. We mainly focus on **AIoT Smart Hardware** and our first product is now at the stage of EVT (Engineering Verification Test). We warmly welcome investors and founders to get in touch with us!
 
 I regard myself as an **engineer-like and PM-like Product Engineer**, attentive to all aspects of a thing/product -- from marketing, business and SCM to R&D and delivery etc. -- not just the technology. 
 
-Look forward to any opportunities or communications about research or start-up. Please feel free to reach out to me and engage in discussions on any topic.
+Look forward to any opportunities or communications about research and start-up. Please feel free to reach out to me and engage in discussions on any topic.
 
 [Get and download my CV](/files/Daman-YDN-CV-Oct_2_2025.pdf)
 
@@ -75,7 +75,7 @@ Look forward to any opportunities or communications about research or start-up. 
 
 **Languages:** Mandarin Chinese (native), English (CET-6, English-Medium-Instruction undergraduate), Cantonese 
 
-**Volunteering:** Harvard-SCUT China Tour in Guangdong (Student Assistant), Guangzhou Metro (Station Guide)
+**Volunteering:** Harvard Students China Tour in GBA (Student Assistant), Guangzhou Metro (Station Guide)
 
 **Interests:** Guitar, badminton, photographing and filming
 
