@@ -60,7 +60,7 @@ Look forward to any opportunities or communications about research or start-up. 
 -	Technical stack: ESP32, STM32, LoRa, Arduino, FreeRTOS/Linux, Java Web, SpringBoot, WebSocket
 
 **One-stop Online Campus Platform; Jul 2022 - Sep 2022**
--	A online platform allowing students and teaching staff to post, announce, issue, query anything
+-	An online platform allowing students and teaching staff to post, announce, issue, query anything
 -	Technical stack: Service (Java, SpringBoot, MySQL); Web (Vue.js); WeChat mini-program (WXML)
 -	Won the 1st prize in the National Student Information Literacy Improvement Activity held by Ministry of Education
 
