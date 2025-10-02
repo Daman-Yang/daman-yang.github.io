@@ -24,7 +24,7 @@ Look forward to any opportunities or communications about research or start-up. 
 - Legal name: Di-nan YANG
 - Preferred name: Daman YEUNG
 - Phone: +86 180-2480-4888
-- Email: wi_daman@mail.scut.edu.cn | dmycn@outlook.com
+- Email: wi_daman@mail.scut.edu.cn, dmycn@outlook.com
 - Addr: Guangzhou Intl. Campus, South China Univ. of Tech., Panyu District, Guangzhou, Guangdong, P. R. China
 
 # EDUCATION
@@ -68,9 +68,14 @@ Look forward to any opportunities or communications about research or start-up. 
 
 # SKILLS AND INTERESTS
 **Coding Skills:** Knowledge in C++, Java, Web, Python
+
 **Engineering Skills:** Web/Network Development, UI/UX, Embedded Systems, PCB Design, 2D/3D Design
+
 **Languages:** Mandarin Chinese (native), English (CET-6, English-Medium-Instruction undergraduate), Cantonese 
+
 **Volunteering:** Harvard-SCUT China Tour in Guangdong (Student Assistant), Guangzhou Metro (Station Guide)
+
 **Interests:** Guitar, badminton, photographing and filming
+
 **Societies:** Student Press, Admissions Association, Federation of Student Associations
 
