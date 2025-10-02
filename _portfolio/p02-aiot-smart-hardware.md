@@ -1,6 +1,6 @@
 ---
 title: "AIoT Smart Hardware"
-excerpt: "Jul 2025"
+excerpt: "Jul 2025; Biz Project @ CITATEK"
 collection: portfolio
 ---
 
