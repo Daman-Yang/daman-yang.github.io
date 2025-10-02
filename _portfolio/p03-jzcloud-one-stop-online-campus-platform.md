@@ -1,6 +1,6 @@
 ---
 title: "JZCloud One-stop Online Campus Platform"
-excerpt: "An all-in-one online service platform for the senior high school"
+excerpt: "Jul 2022; Student Project @ CITA at SYS Memorial Secondary School"
 collection: portfolio
 ---
 
