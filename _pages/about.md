@@ -20,6 +20,8 @@ I regard myself as an **engineer-like and PM-like Product Engineer**, attentive 
 
 Look forward to any opportunities or communications about research or start-up. Please feel free to reach out to me and engage in discussions on any topic.
 
+[Get and download my CV](/files/Daman-YDN-CV-Oct_2_2025.pdf)
+
 # INFORMATION
 - Legal name: Di-nan YANG
 - Preferred name: Daman YEUNG
