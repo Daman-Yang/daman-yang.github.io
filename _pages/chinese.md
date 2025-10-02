@@ -1,12 +1,14 @@
 ---
 permalink: /chinese/
-title: "Hi -- About Me"
+title: "Daman YANG -- Profile"
 author_profile: true
 redirect_from: 
   - /cn_about/
 ---
 
 {% include base_path %}
+
+Hi!
 
 欢迎来到 **Daman YANG** 的个人主页（简体中文）。
 
