@@ -1,6 +1,6 @@
 ---
 title: "Smart Transport Lighting System"
-excerpt: "SRP @ SCUT"
+excerpt: "Mar 2025; SRP @ SCUT"
 collection: portfolio
 ---
 
