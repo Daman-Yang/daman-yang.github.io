@@ -80,4 +80,3 @@ Look forward to any opportunities or communications about research and start-up.
 **Interests:** Guitar, badminton, photographing and filming
 
 **Societies:** Student Press, Admissions Association, Federation of Student Associations
-
