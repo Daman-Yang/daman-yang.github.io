@@ -1,6 +1,6 @@
 ---
 title: "AIoT Smart Hardware"
-excerpt: "To build a real Jarvis"
+excerpt: "Jul 2025"
 collection: portfolio
 ---
 
