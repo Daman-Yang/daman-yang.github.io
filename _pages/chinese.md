@@ -1,6 +1,6 @@
 ---
 permalink: /chinese/
-title: "Daman YANG -- Profile"
+title: "关于我"
 author_profile: true
 redirect_from: 
   - /cn_about/
