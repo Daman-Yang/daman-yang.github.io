@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Welcome to the profile of Daman YANG.
 
 I am currently a second-year undergrad student in **South China University of Technology (華南理工大學 SCUT)**, majoring in **Robotics Engineering** at Shien-Ming Wu School of Intelligent Engineering and minoring in Law.
