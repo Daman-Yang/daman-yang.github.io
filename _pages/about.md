@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi -- About Me"
+title: "Daman YANG -- Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Hi!
 
 Welcome to the profile of Daman YANG.
 
