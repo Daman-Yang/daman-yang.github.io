@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /chinese
 title: "Hi -- About Me"
 author_profile: true
 redirect_from: 
