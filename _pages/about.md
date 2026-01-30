@@ -22,63 +22,87 @@ I regard myself as an **engineer-like and PM-like Product Engineer**, attentive 
 
 Look forward to any opportunities or communications about research and start-up. Please feel free to reach out to me and engage in discussions on any topic.
 
-[Get and download my CV](/files/Daman-YDN-CV-Oct_2_2025.pdf)
+Our company's website: [Turinno Inc.](https://theturinno.com)
+
+[Download my CV](/files/Daman-YDN-CV.pdf)
 
 # INFORMATION
 - Legal name: Di-nan YANG
 - Preferred name: Daman YEUNG
-- Phone: +86 180-2480-4888
-- Email: wi_daman@mail.scut.edu.cn, dmycn@outlook.com
+- Email: wi_daman@mail.scut.edu.cn (academic), daman@turinno.co (startup), dmycn@outlook.com (personal)
+- LinkedIn: [https://www.linkedin.com/in/damanyeung](https://www.linkedin.com/in/damanyeung)
 - Addr: Guangzhou Intl. Campus, South China Univ. of Tech., Panyu District, Guangzhou, Guangdong, P. R. China
 
 # EDUCATION
-**B.Eng. in Robotics Engineering, Minor in Law (LL.B.), South China University of Technology, Shien-Ming Wu School of Intelligent Engineering; 2024 – 2028**
--	Modules: Artificial Intelligence; C++ Programming; Python Programming; Electrical and Electronic Technologies
--	Practice: Traffic Detection System with YOLO; Robot Lab; Circuits Experiments
--	Head of a tech start-up in SCUT Incubator
+**B.Eng. in Robotics Engineering, Minor in Law (LL.B.)**
+
+Sep 2024 – Jul 2028
+
+South China University of Technology, Shien-Ming Wu School of Intelligent Engineering
+- Modules: C++ Programming: 4.0/4.0; Python Programming: 4.0/4.0; Linear Algebra: 3.7/4.0
+- English-Medium Instruction (EMI)
+- Practice: Traffic Detection System with YOLO; RoboMaster Control by Python; Circuits Experiments
+- Head of a smart hardware start-up at SCUT Incubator
 
 # EXPERIENCE
-**CITATEK Co., Ltd. A Tech Start-up, CEO & Founder & Chief Engineer; Aug 2024 - present**
--	Completed the establishment and took full charge of the work on R&D, marketing etc.
--	Leading a team of 10 to work on AIoT Smart Hardware company’s other business (software outsourcing etc.)
--	Overseeing the R&D Dept. to carry out both hardware and software development in AIoT project
--	Representing the company to participate in activities about fundraising and business (Global Sources HK Shows etc.)
-    
-**Smart Transport Lighting System Research Program, Student Researcher; Mar 2025 - present**
--	Taking charge of the Communications and Embedded Systems parts and playing one of the key roles in the team
--	Collaborating with teammates and keeping in touch with the enterprise-side guests
-  
-**Computer & IT Association at Sun Yat-sen Memorial Secondary School, Founding President; Jul 2022 - Sep 2023**
--	Completed the establishment and served as the chief lecturer
--	Led the team to participate in several activities (Charity bazaar, Student Carnival etc.) 
--	Developed software programs and guided members to study knowledge of IT and programming
+**Founder, CEO, Product Lead**
+
+Aug 2024 - Present
+
+Turinno Guangzhou Inc. & CITATEK ZS LIMITED
+- Completed the establishment and took full charge of the work on R&D and business.
+- Leading a team of 10 to work on AIoT Smart Hardware and company’s other business (software outsourcing etc.)
+- Overseeing the R&D Dept. to carry out the development on software, hardware, and industrial design.
+- Representing the company to participate in activities about fundraising and business (Global Sources HK).
+
+**Student Researcher (Core Member)**
+
+Mar 2025 – Present
+
+Smart Transport Lighting System Research Program (Prof. LU, Shaofeng, SCUT)
+- Taking full charge of the development on Communications, Embedded Systems, Cloud Service parts.
+- Collaborating with teammates and keeping in touch with the enterprise-side staff.
+
+**Founding President & Chief Lecturer**
+
+Jul 2022 - Sep 2023
+
+Computer & Info Tech Association at Sun Yat-sen Memorial Secondary School
+- Completed the establishment and gave lectures to the members.
+- Led and participated in activities, finishing a 10K-CNY business closed loop by developing brick set product.
+- Developed several software programs and guided members to study knowledge of IT and programming.
 
 # PROJECTS
-**AIoT Smart Keyboard and Related Hardware; Jul 2025 - present**
--	A company project which aims at building an AI + IoT hardware eco-system in desk space
--	Led the technical architecture design and selection, and carried out the marketing affairs and POC
--	Currently leading R&D and working on Embedded Systems and PCB Design at the stage of EVT
--	Technical stack: ESP32, ESP-IDF, OpenThread, IEEE 802.15.4 etc.
-    
-**Smart Transport Lighting System; Mar 2025 - present**
--	Designed a LAN-based Long-range Topological Architecture, achieving a safe and efficient communication method
--	Currently carrying out the optimization and testing more deeply
--	Technical stack: ESP32, STM32, LoRa, Arduino, FreeRTOS/Linux, Java Web, SpringBoot, WebSocket
+**AIoT Smart Keyboard and Related HW/SW**
 
-**One-stop Online Campus Platform; Jul 2022 - Sep 2022**
--	An online platform allowing students and teaching staff to post, announce, issue, query anything
--	Technical stack: Service (Java, SpringBoot, MySQL); Web (Vue.js); WeChat mini-program (WXML)
--	Won the 1st prize in the National Student Information Literacy Improvement Activity held by Ministry of Education
+Jul 2025 - Present
+- A startup project which aims at building an AI + IoT hardware eco-system in desk-space
+- Lead the technical architecture design and selection, and carried out the POC and EVT on Embedded & PCB
+- Technical stack: ESP32, ESP-IDF, Thread, IEEE 802.15.4 etc.
+- Software copyrights and invention patents being written
+
+**Smart Transport Lighting System**
+
+Mar 2025 - Present
+- Designed a Long-range Communication Topological Architecture, achieving the safe and efficient communication
+- Currently carrying out the optimization and working on the embedded systems and the cloud service dev
+- Technical stack: ESP32, STM32, LoRa, Arduino, FreeRTOS, Java Web, SpringBoot, WebSocket
+- 2 software copyrights and 2 invention patents in IoT/Wireless Comm ready for application, 1 paper being written
+
+**One-stop Online Campus Platform (During High School)**
+
+Jul 2022 - Sep 2022
+- An online platform allowing students and teaching staff to post, announce, issue, query anything
+- Technical stack: Service (Java, SpringBoot, MySQL); Web (Vue.js); WeChat mini-program (WXML)
+- Won the 1st prize in the National Student Information Literacy Improvement Activity held by Ministry of Education
 
 # SKILLS AND INTERESTS
-**Coding Skills:** Knowledge in C++, Java, Web, Python
+**Coding Skills:** C++, Java, Web, Python …
 
-**Engineering Skills:** Web/Network Development, UI/UX, Embedded Systems, PCB Design, 2D/3D Design
+**Engineering Skills:** Web/Network Development, UI/UX, Embedded Systems, 2D/3D Design
 
-**Languages:** Mandarin Chinese (native), English (CET-6, English-Medium-Instruction undergraduate), Cantonese 
+**Languages:** Mandarin Chinese (native), English (CET-6, English-Medium-Instruction undergraduate), Cantonese
 
-**Volunteering:** Harvard Students China Tour in GBA (Student Assistant), Guangzhou Metro (Station Guide)
+**Volunteering:** Student Assistant of Harvard-SCUT China Tour in Guangdong, Guangzhou Metro Station Guide
 
-**Interests:** Guitar, badminton, photographing and filming
-
-**Societies:** Student Press, Admissions Association, Federation of Student Associations
+**Societies:** Student Press, Admission Affairs Association, Union of Student Associations, Computer & IT Assoc.

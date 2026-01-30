@@ -8,6 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
+> 提示：此页面暂时停止维护，请前往[https://daman-yang.github.io/](https://daman-yang.github.io/)
+>
+> Note: This page is temporarily out of maintenance, please go to [https://daman-yang.github.io/](https://daman-yang.github.io/)
+
 Hi!
 
 欢迎来到 **Daman YANG** 的个人主页（简体中文）。
@@ -21,7 +25,7 @@ Hi!
 
 十分期待任何与科研或创业相关的机会与交流，欢迎随时联系我探讨交流。
 
-[获取并下载我的简历 (EN)](/files/Daman-YDN-CV-Oct_2_2025.pdf)
+[获取我的简历 (English Version)](/files/Daman-YDN-CV.pdf)
 
 # 个人信息
 
