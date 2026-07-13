@@ -8,9 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-> 提示：此页面暂时停止维护，请前往[https://daman-yang.github.io/](https://daman-yang.github.io/)
+> **提示：此页面暂时停止维护，请前往[https://daman-yang.github.io/](https://daman-yang.github.io/)**
 >
-> Note: This page is temporarily out of maintenance, please go to [https://daman-yang.github.io/](https://daman-yang.github.io/)
+> **Note: This page is temporarily out of maintenance, please go to [https://daman-yang.github.io/](https://daman-yang.github.io/)**
 
 Hi!
 
@@ -25,7 +25,7 @@ Hi!
 
 十分期待任何与科研或创业相关的机会与交流，欢迎随时联系我探讨交流。
 
-[获取我的简历 (English Version)](/files/Daman-YDN-CV.pdf)
+[获取我的简历 (English Version)](/files/YDN-CV-2.0.2_TNR.pdf)
 
 # 个人信息
 
