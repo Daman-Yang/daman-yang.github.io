@@ -23,9 +23,10 @@ I regard myself as an **engineer-like and PM-like Product Engineer**, attentive 
 Look forward to any opportunities and communications about research and startup. Please feel free to reach out to me and engage in discussions on any topic.
 
 More details via: [Personal Profile by Feishu Document](https://citatek-ltd.feishu.cn/docx/RC92dVJjvoJzAfxEh6xc5FT3nLc)
+
 Our company's website: [Turinno Inc.](https://turinno.co)
 
-[Download my CV](/files/YDN-CV-2.0.2_TNR.pdf)
+My CV/Resume: [Download my CV](/files/YDN-CV-2.0.2_TNR.pdf)
 
 # INFORMATION
 - Legal name: Di-nan YANG
@@ -42,7 +43,7 @@ Our company's website: [Turinno Inc.](https://turinno.co)
 
 Sep 2024 – Jul 2028
 
-South China University of Technology (SCUT)
+**South China University of Technology (SCUT)**
 - Modules: C++ Programming: 4.0/4.0; Python Programming: 4.0/4.0; Engineering Math: 4.0/4.0
 - English Medium Instruction (EMI); College English Test Level 6 (CET-6 587)
 - Course Practice: Traffic Detection System with YOLO; Vision-based Logistics Grasper Robot Vehicle with RL
@@ -51,7 +52,7 @@ South China University of Technology (SCUT)
 
 Aug 2026
 
-Technical University of Munich (TUM)
+**Technical University of Munich (TUM)**
 - Modules: Robot kinematics, Reinforcement learning, HRI, Multimodal perception and sensing etc.
 
 # EXPERIENCE
@@ -59,7 +60,7 @@ Technical University of Munich (TUM)
 
 Aug 2024 - Present
 
-Turinno Inc. & CITATEK ZS LIMITED
+**Turinno Inc. & CITATEK ZS LIMITED**
 - Leading a team of 10 to work on AIoT Smart Hardware and company’s other business (software outsourcing etc.).
 - Overseeing the R&D Dept. to carry out the development on software, hardware, and industrial design.
 - Representing the company to participate in activities about fundraising and business (Global Sources HK).
@@ -69,7 +70,7 @@ Turinno Inc. & CITATEK ZS LIMITED
 
 Jun 2026
 
-China-U.S. Young Maker Competition, Shenzhen Division
+**China-U.S. Young Maker Competition, Shenzhen Division**
 - Led the Turinno team to participate and developed products of the proactive ambient AI hardware.
 - Present and pitch the Turinno EchoBoard and Turinno Intelligence. Advanced to semi-final.
 
@@ -77,7 +78,7 @@ China-U.S. Young Maker Competition, Shenzhen Division
 
 May 2026 - May 2027
 
-National Training Program of Innovation and Entrepreneurship for Undergraduates
+**National Training Program of Innovation and Entrepreneurship for Undergraduates**
 *Advised by Prof. LU, Shaofeng, South China University of Technology*
 - Person-In-Charge of the project; taking charge of the R&D on Communications, Embedded Systems, Cloud Service.
 - Collaborating with teammates, keeping in touch and giving the pitch with the enterprise-side staff.
@@ -86,7 +87,7 @@ National Training Program of Innovation and Entrepreneurship for Undergraduates
 
 Apr 2025
 
-The Chinese University of Hong Kong, Shenzhen x PAVD Entrepreneurial Boot Camp
+**The Chinese University of Hong Kong, Shenzhen x PAVD Entrepreneurial Boot Camp**
 - Studied the themed lectures on pitching, fundraising, partner’s relations given by Prof. Chau of EMBA@CUHK.
 - Leading the team to reconstruct the pitch deck and give a pitch about the Turinno.
 
@@ -94,7 +95,7 @@ The Chinese University of Hong Kong, Shenzhen x PAVD Entrepreneurial Boot Camp
 
 Jul 2022 - Sep 2023
 
-Computer & Info Tech Association at Sun Yat-sen Memorial Secondary School
+**Computer & Info Tech Association at Sun Yat-sen Memorial Secondary School**
 - Completed the establishment and gave lectures to the members.
 - Led and participated in activities, finishing a 100K-CNY business closed loop by developing brick set product.
 - Developed several software programs and guided members to study knowledge of IT and programming.
