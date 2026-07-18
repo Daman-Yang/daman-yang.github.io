@@ -10,7 +10,7 @@ collection: portfolio
 
 ## Image
 
-![Robot image](/_portfolio/robot_image.png)
+![Robot image](/robot_image.png)
 
 ## Video
 

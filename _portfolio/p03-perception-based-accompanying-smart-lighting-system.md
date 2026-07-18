@@ -24,7 +24,7 @@ This is an engineering project aiming at improving the energy efficiency and int
 - 1 Paper under review
 
 ## Overview
-![Dashboard image](/_portfolio/dashboard_image.png)
+![Dashboard image](/dashboard_image.png)
 
 ## Related resources
 - Selected paragraphs from paper
