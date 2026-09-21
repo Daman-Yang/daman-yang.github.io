@@ -27,14 +27,14 @@ More details via: [Personal Profile by Feishu Document](https://citatek-ltd.feis
 
 Our company's website: [Turinno Inc.](https://turinno.co)
 
-My CV/Resume: [Download my CV](/files/YDN-CV-2.0.2_TNR.pdf)
+My CV/Resume: [Download my CV](/files/Daman-YDN-CV-2.2.1.pdf)
 
 # INFORMATION
 
 - Legal name: Di-nan YANG
 - Preferred name: Daman YEUNG (Cantonese)
 - Email
-  - [wi_daman@mail.scut.edu.cn](mailto:wi_daman@mail.scut.edu.cn) (academic)
+  - [wi.daman@mail.scut.edu.cn](mailto:wi.daman@mail.scut.edu.cn) (academic)
   - [daman@turinno.co](mailto:daman@turinno.co) (startup)
   - [dmycn@outlook.com](mailto:dmycn@outlook.com) (personal)
 - LinkedIn: [https://www.linkedin.com/in/damanyeung](https://www.linkedin.com/in/damanyeung)
@@ -49,7 +49,7 @@ My CV/Resume: [Download my CV](/files/YDN-CV-2.0.2_TNR.pdf)
 Sep 2024 – Jul 2028
 
 - Modules: C++ Programming: 4.0/4.0; Python Programming: 4.0/4.0; Engineering Math: 4.0/4.0
-- English Medium Instruction (EMI); College English Test Level 6 (CET-6 587)
+- IELTS 7.5 (R 9.0 | S 7.0); English Medium Instruction (EMI); College English Test Level 6 (CET-6 587)
 - Course Practice: Traffic Detection System with YOLO; Vision-based Logistics Grasper Robot Vehicle with RL
 
 ---
@@ -66,7 +66,7 @@ Aug 2026
 
 **Co-founder, CEO, CTO**
 
-**Turinno Inc. & CITATEK ZS LIMITED**
+**Turinno Inc. (Turinno Limited) & CITATEK ZS LIMITED**
 
 Aug 2024 - Present
 
