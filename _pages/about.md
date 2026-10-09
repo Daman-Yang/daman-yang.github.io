@@ -23,11 +23,9 @@ I regard myself as an **engineer-like and PM-like Product Engineer**, attentive 
 
 Look forward to any opportunities and communications about research and startup. Please feel free to reach out to me and engage in discussions on any topic.
 
-More details via: [Personal Profile by Feishu Document](https://citatek-ltd.feishu.cn/docx/RC92dVJjvoJzAfxEh6xc5FT3nLc)
-
 Our company's website: [Turinno Inc.](https://turinno.co)
 
-My CV/Resume: [Download my CV](/files/Daman-YDN-CV-2.2.1.pdf)
+My CV/Resume: [Download my CV](/files/Daman-YDN-CV-2.2.1A_TNR.pdf)
 
 # INFORMATION
 
@@ -49,7 +47,7 @@ My CV/Resume: [Download my CV](/files/Daman-YDN-CV-2.2.1.pdf)
 Sep 2024 – Jul 2028
 
 - Modules: C++ Programming: 4.0/4.0; Python Programming: 4.0/4.0; Engineering Math: 4.0/4.0
-- IELTS 7.5 (R 9.0 | S 7.0); English Medium Instruction (EMI); College English Test Level 6 (CET-6 587)
+- IELTS 7.5 (R 9.0, S 7.0); English Medium Instruction (EMI); College English Test Level 6 (CET-6 587)
 - Course Practice: Traffic Detection System with YOLO; Vision-based Logistics Grasper Robot Vehicle with RL
 
 ---
